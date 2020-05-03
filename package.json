@@ -1,6 +1,6 @@
 {
   "name": "say-hello-greetings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say hello in different languages.",
   "main": "index.js",
   "scripts": {
