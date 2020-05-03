@@ -1,5 +1,5 @@
 {
-  "name": "say-hello",
+  "name": "say-hello-greetings",
   "version": "1.0.0",
   "description": "Say hello in different languages.",
   "main": "index.js",
