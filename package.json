@@ -1,0 +1,25 @@
+{
+  "name": "say-hello",
+  "version": "1.0.0",
+  "description": "Say hello in different languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseafarley/SayHello.git"
+  },
+  "keywords": [
+    "hello",
+    "greetings",
+    "languages",
+    "cultural"
+  ],
+  "author": "Chelsea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chelseafarley/SayHello/issues"
+  },
+  "homepage": "https://github.com/chelseafarley/SayHello#readme"
+}
